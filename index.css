@@ -1,3 +1,12 @@
 .project-card {
     border: 1px solid black
 }
+
+.projects {
+    display: flex;
+}
+
+.icon-row {
+    display: flex;
+    justify-content: space-evenly;
+}
